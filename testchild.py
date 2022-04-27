@@ -1,2 +1,2 @@
 ##adding a new file in child branch
-print("Inside Child branch")
+print("Inside Child branch, which is now deleted")
